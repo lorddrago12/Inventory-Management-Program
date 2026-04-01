@@ -147,6 +147,8 @@ Contributions are welcome and appreciated! Here's how you can help:
    ```
 5. **Open** a Pull Request 🚀
 
+---
+
 ### 💡 Ideas for Contributions
 
 - [ ] Add a `listInventory()` function to display all products
@@ -154,6 +156,8 @@ Contributions are welcome and appreciated! Here's how you can help:
 - [ ] Add support for product categories or prices
 - [ ] Write unit tests (Jest / Vitest)
 - [ ] Add persistent storage (JSON file or localStorage)
+
+---
 
 ### 🐛 Reporting Bugs
 
